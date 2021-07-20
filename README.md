@@ -1,2 +1,7 @@
 # AzureLabs
-Code For Settingup Azure Lab to Learn
+
+Code For Setting up Azure Lab to Learn and Have Fun 
+
+
+
+
